@@ -191,7 +191,7 @@ The railway station's importance extends beyond mere functionality, as it stands
 ## OUTPUT
 
 MAP
-![alt text](<senthil/senthil/Screenshot 2024-03-27 060141.png>)
+![alt text](<senthil/senthil/Screenshot 2024-03-27 150307.png>)
 ![alt text](<senthil/senthil/Screenshot 1.png>)
 ![alt text](<senthil/senthil/Screenshot 5.png>)
 
